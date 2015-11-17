@@ -1,0 +1,29 @@
+{
+  "name": "conFusion",
+  "authors": [
+    "Max Kowalski <makskow@gmail.com>"
+  ],
+  "description": "Best restaurant evah",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "restaurant"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "font-awsome#~4.4.0"
+  }
+}
